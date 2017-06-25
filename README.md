@@ -1,2 +1,2 @@
 # SafeString
-A C++ SafeString implementation without dynamic memory adn Misra C++ 2008 cumplient.
+A Misra C++ 2008 SafeString implementation without dynamic memory.
